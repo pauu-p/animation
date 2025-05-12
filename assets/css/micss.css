@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image:url("../img/m-2copia.jpg");
+    background-size: cover;
+    background-origin:content-box;
+}
+button{
+    background-color: transparent;
+
+}
+button:hover{
+    svg{
+        color: white;
+    }
+}
+.luz{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+   margin-top: 8rem;
+}
+.btn3{
+    display: flex;
+    justify-content:right;
+    align-items: flex-end;
+    margin-top: 18rem;
+
+}
